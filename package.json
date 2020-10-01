@@ -2,7 +2,7 @@
   "name": "appyeni",
   "version": "0.1.0",
   "engines": {
-    "node": "13.2.0",
+    "node": "12.12.62",
     "npm": "6.14.3"
   },
   "private": false,
